@@ -1,0 +1,15 @@
+[
+    {
+         "id": "hdout_username",
+         "type": "text",
+         "label": "Username",
+         "default": "" 
+    },
+    {
+         "id": "hdout_password",
+         "type": "text",
+         "label": "Password",
+         "default": "",
+         "option": "hidden" 
+    }
+]
